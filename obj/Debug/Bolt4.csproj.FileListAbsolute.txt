@@ -1,0 +1,12 @@
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\bin\Debug\Bolt4.exe.config
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\bin\Debug\Bolt4.exe
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\bin\Debug\Bolt4.pdb
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.csproj.AssemblyReference.cache
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.Form1.resources
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.Properties.Resources.resources
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.UjTermek.resources
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.csproj.GenerateResource.cache
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.csproj.CoreCompileInputs.cache
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.exe
+C:\Users\Baksa\source\repos\BoltForm\Bolt4\obj\Debug\Bolt4.pdb
